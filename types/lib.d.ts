@@ -1,7 +1,7 @@
-declare module 'vuetify/lib' {
+declare module 'vuetify_all_all/lib' {
   // eslint-disable-next-line import/no-duplicates
   import { VueConstructor, DirectiveOptions } from 'vue'
-  import Vuetify from 'vuetify'
+  import Vuetify from 'vuetify_all_all'
   import { Colors } from 'vuetify/lib/util/colors'
 
   export default Vuetify

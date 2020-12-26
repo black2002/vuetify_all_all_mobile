@@ -1,4 +1,4 @@
-declare module 'vuetify/es5/util/colors' {
+declare module 'vuetify_all_aLL/es5/util/colors' {
   interface BaseColor {
     readonly base: string
     readonly lighten5: string

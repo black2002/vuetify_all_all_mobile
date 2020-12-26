@@ -1,11 +1,11 @@
-declare module 'vuetify/es5/install' {
+declare module 'vuetify_all_all/es5/install' {
   import { VueConstructor } from 'vue'
 
   const install: (Vue: VueConstructor, args: {}) => void
 
   export { install }
 }
-declare module 'vuetify/es5/components/Vuetify' {
+declare module 'vuetify_all_all/es5/components/Vuetify' {
   import Vuetify from 'vuetify'
 
   export default Vuetify
@@ -23,7 +23,7 @@ declare module 'vuetify/es5/components/*' {
   export = VuetifyComponent
 }
 
-declare module 'vuetify/es5/directives' {
+declare module 'vuetify_all_all/es5/directives' {
   import { DirectiveOptions } from 'vue'
 
   const ClickOutside: DirectiveOptions

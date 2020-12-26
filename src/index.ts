@@ -7,7 +7,7 @@ export default Vuetify
 const install = Vuetify.install
 
 Vuetify.install = (Vue, args) => {
-  install.call(Vuetify, Vue, {
+  install.call(Vuetify_all_all, Vue, {
     components,
     directives,
     ...args,

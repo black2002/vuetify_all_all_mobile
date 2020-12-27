@@ -1,5 +1,5 @@
 import OurVue, { VueConstructor } from 'vue'
-import { VuetifyUseOptions } from 'vuetify_all_all/types'
+import { VuetifyUseOptions } from 'vuetify/types'
 import { consoleError } from './util/console'
 
 export function install (Vue: VueConstructor, args: VuetifyUseOptions = {}) {

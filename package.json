@@ -9,14 +9,14 @@
   "_id": "vuetify@2.3.21",
   "_inBundle": false,
   "_integrity": "sha512-c9FOjkpVPDoIim88wbfqSIuCsH3jtgQQBC1iMW+ZFxf/Bj+d73HySL2LhEnZwAQT7XTAUGfad4aLPfcNZzK5YQ==",
-  "_location": "/vuetify_all_all",
+  "_location": "/vuetify_all_all_mobile",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
     "raw": "vuetify@2.3.21",
     "name": "vuetify",
-    "escapedName": "vuetify_all_all",
+    "escapedName": "vuetify_all_all_mobile",
     "rawSpec": "2.3.21",
     "saveSpec": null,
     "fetchSpec": "2.3.21"
@@ -101,7 +101,7 @@
   "license": "MIT",
   "main": "dist/vuetify.js",
   "module": "dist/vuetify.js",
-  "name": "vuetify_all_all",
+  "name": "vuetify_all_all_mobile",
   "peerDependencies": {
     "vue": "^2.6.4"
   },

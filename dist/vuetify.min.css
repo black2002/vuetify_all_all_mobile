@@ -7,7 +7,13 @@
 
 .show-mobile{display:inherit!important}
 
-
+.v-navigation-drawer__content::-webkit-scrollbar {
+    display: none;
+}
+.v-navigation-drawer__content {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
 
 
 
